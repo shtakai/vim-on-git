@@ -1,5 +1,7 @@
 # ターミナルでgitを使うときのvimの簡単な使い方
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/vim-on-git.svg)](https://www.guardrails.io)
+
 ### 背景
 リモート環境は制約がきつく、vimもよく使います。ただ、vimはデフォルト設定なので使いにくいのが難です。
 
